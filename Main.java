@@ -72,6 +72,7 @@ public class Main {
                 break;
             }
         }
+        sc.close();
     }
 
     public static void drawHangman(int l) {
